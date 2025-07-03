@@ -6,39 +6,39 @@ import ProjectCard from './ProjectCard';
 const works = [
   {
     imgSrc: '/images/project-1.jpg',
-    title: 'Full stack music app',
-    tags: ['API', 'MVC', 'Development'],
-    projectLink: 'https://musify-5al0.onrender.com/'
+    title: 'Wether app',
+    tags: ['API', 'Development'],
+    projectLink: 'https://vinay-pandey-coder.github.io/weather-app/'
   },
   {
     imgSrc: '/images/project-2.jpg',
-    title: 'Free stock photo app',
-    tags: ['API', 'SPA'],
-    projectLink: 'https://pixstock-official.vercel.app/'
+    title: 'Calculator app',
+    tags: ['Development'],
+    projectLink: 'https://vinay-pandey-coder.github.io/calculator/'
   },
   {
     imgSrc: '/images/project-3.jpg',
-    title: 'Recipe app',
+    title: 'User Card',
     tags: ['Development', 'API'],
-    projectLink: ''
+    projectLink: 'https://vinay-pandey-coder.github.io/user-card/'
   },
   {
     imgSrc: '/images/project-4.jpg',
-    title: 'Real state website',
+    title: 'TODO App',
     tags: ['Web-design', 'Development'],
-    projectLink: 'https://github.com/codewithsadee-org/wealthome'
+    projectLink: 'https://vinay-pandey-coder.github.io/To-Do-list/'
   },
   {
     imgSrc: '/images/project-5.jpg',
     title: 'eCommerce website',
     tags: ['eCommerce', 'Development'],
-    projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
+    projectLink: 'https://vinay-pandey-coder.github.io/e-commerce/'
   },
   {
     imgSrc: '/images/project-6.jpg',
-    title: 'vCard Personal portfolio',
-    tags: ['Web-design', 'Development'],
-    projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
+    title: 'Qr-code',
+    tags: ['API', 'Development'],
+    projectLink: 'https://vinay-pandey-coder.github.io/Qr-code-/'
   },
 ];
 
