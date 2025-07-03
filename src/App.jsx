@@ -5,7 +5,7 @@ import Hero from './Components/Hero'
 import About from './Components/About'
 import Skills from './Components/Skills'
 import Work from './Components/Work'
-import Review from './Components/Review'
+// import Review from './Components/Review'
 import Contact from './Components/Contact'
 import Footer from './Components/Footer'
 
@@ -50,7 +50,7 @@ const App = () => {
         <About/>
         <Skills/>
         <Work/>
-        <Review/>
+        {/* <Review/> */}
         <Contact/>
       </main>
         <Footer/>
