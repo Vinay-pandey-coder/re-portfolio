@@ -38,7 +38,7 @@ const Hero = () => {
             <ButtonPrimary 
               label="Download CV"
               icon="download"
-              href="/CV/My Resume.pdf"
+              href="/CV/VINAY PANDEY resume.pdf"
               target='_blank'
             />
 

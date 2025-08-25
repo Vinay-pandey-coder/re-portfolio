@@ -26,12 +26,18 @@ const skillItem = [
     label: 'TailwindCSS',
     desc: 'User Interface'
   },
-    {
-    imgSrc: '/images/figma.svg',
-    label: 'Figma',
-    desc: 'Design tool'
+  {
+    imgSrc: '/images/git.svg',
+    label: 'Git',
+    desc: 'Version Control'
+  },
+  {
+    imgSrc: '/images/github.svg',
+    label: 'Github',
+    desc: 'Version Control & Collaboration'
   }
 ];
+
 
 const Skills = () => {
   return (
